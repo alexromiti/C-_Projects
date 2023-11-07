@@ -1,0 +1,14 @@
+C:\Users\alf_r\source\repos\RuletaAmericana\bin\Debug\net6.0\RuletaAmericana.exe
+C:\Users\alf_r\source\repos\RuletaAmericana\bin\Debug\net6.0\RuletaAmericana.deps.json
+C:\Users\alf_r\source\repos\RuletaAmericana\bin\Debug\net6.0\RuletaAmericana.runtimeconfig.json
+C:\Users\alf_r\source\repos\RuletaAmericana\bin\Debug\net6.0\RuletaAmericana.dll
+C:\Users\alf_r\source\repos\RuletaAmericana\bin\Debug\net6.0\RuletaAmericana.pdb
+C:\Users\alf_r\source\repos\RuletaAmericana\obj\Debug\net6.0\RuletaAmericana.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alf_r\source\repos\RuletaAmericana\obj\Debug\net6.0\RuletaAmericana.AssemblyInfoInputs.cache
+C:\Users\alf_r\source\repos\RuletaAmericana\obj\Debug\net6.0\RuletaAmericana.AssemblyInfo.cs
+C:\Users\alf_r\source\repos\RuletaAmericana\obj\Debug\net6.0\RuletaAmericana.csproj.CoreCompileInputs.cache
+C:\Users\alf_r\source\repos\RuletaAmericana\obj\Debug\net6.0\RuletaAmericana.dll
+C:\Users\alf_r\source\repos\RuletaAmericana\obj\Debug\net6.0\refint\RuletaAmericana.dll
+C:\Users\alf_r\source\repos\RuletaAmericana\obj\Debug\net6.0\RuletaAmericana.pdb
+C:\Users\alf_r\source\repos\RuletaAmericana\obj\Debug\net6.0\RuletaAmericana.genruntimeconfig.cache
+C:\Users\alf_r\source\repos\RuletaAmericana\obj\Debug\net6.0\ref\RuletaAmericana.dll
